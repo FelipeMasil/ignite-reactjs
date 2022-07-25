@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/01-github-explorer">
-     <img src="./images/ignite-feed.png" alt="Github Explorer" width="280"/>
+     <img src="./images/ignite-feed.png" alt="Ignite Feed" width="280"/>
    </a>
 </p>
 
