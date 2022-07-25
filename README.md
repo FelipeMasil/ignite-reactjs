@@ -16,7 +16,7 @@
 
 - [Projetos](#rocket-projetos)
   - [Chapter I](#one-chapter-i)
-    - [Fundamentos ReactJS](#fundamentos-reactjs)
+    - [Ignite Feed](#01-ignite_feed)
   
 - [Desafios](#atom_symbol-desafios)
   - [Chapter I](#one-chapter-i)
@@ -27,10 +27,10 @@
 
 ## :one: Chapter I
 
-### Github Explorer
+### Ignite Feed
 
 <p align="center">
-  <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/01-github-explorer">
+  <a href="https://github.com/FelipeMasil/ignite-reactjs/tree/main/01-ignite_feed">
      <img src="./images/ignite-feed.png" alt="Ignite Feed" width="280"/>
    </a>
 </p>
@@ -41,9 +41,7 @@
 
 ## :one: Chapter I
 
-[Desafio 1](https://github.com/tavareshenrique/ignite-reactjs-desafio-1): Desafio sobre os conceitos.
-
-[Desafio 2](https://github.com/tavareshenrique/ignite-reactjs-desafio-2): Desafio de componentização.
+[Desafio 1](#): Desafio sobre os conceitos.
 
 
 # :computer: Autores
@@ -52,7 +50,7 @@
   <tr>
     <td align="center">
       <a href="http://github.com/FelipeMasil/">
-        <img src="./images/felipe.jpg" width="100px;" alt="Henrique Tavares"/>
+        <img src="./images/felipe.jpg" width="100px;" alt="Felipe Manoel"/>
         <br />
         <sub>
           <b>Felipe Manoel Silva</b>
@@ -61,10 +59,10 @@
        <br />
        <a href="https://www.linkedin.com/in/felipemanoelsilva/" title="Linkedin">@FelipeMasil</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/FelipeMasil" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
+      <a href="http://github.com/FelipeMasil/">
         <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Henrique Tavares"/>
         <br />
         <sub>
