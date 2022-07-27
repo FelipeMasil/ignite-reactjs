@@ -1,14 +1,18 @@
+import { Header } from "./components/Header"
 import { Post } from "./Post"
 
-
+import './styles.css'
 
 function App() {
 
   return (
-    <Post
-      author="Felipe Manoel" 
-      content="lorem IPSUN hsdbvukhsbdlv wekgfvsdjhcvuhsdfilhwr sdcvakjdbfihwdguicbskd.jbcvçosd"
-    />
+    <div>
+      <Header />
+      <Post
+        author="Felipe Manoel" 
+        content="lorem IPSUN hsdbvukhsbdlv wekgfvsdjhcvuhsdfilhwr sdcvakjdbfihwdguicbskd.jbcvçosd"
+      />
+    </div>
   )
 }
 
